@@ -17,4 +17,6 @@ The is a web-based application designed to help users submit, track, and manage 
 
 # ScreenShots
 ![image](https://github.com/subha2414/Complaint-Registration-System/blob/main/Register.png?raw=true)
+![image](https://github.com/subha2414/Complaint-Registration-System/blob/main/Admin.png?raw=true)
+
 
