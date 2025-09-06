@@ -6,3 +6,14 @@ The is a web-based application designed to help users submit, track, and manage 
 * In backend processing using PHP on XAMPP server, which manages complaint submission, user authentication, and communication between frontend and database.
 * In MySQL database integration to securely store user details, complaints, and admin responses, while also enabling retrieval and tracking through unique IDs.
 * Admin dashboard where administrators can monitor all complaints, update their status (Pending, In-progress, Resolved), and ensure timely redressal and transparency.
+
+# Technical Used
+# * HTML
+# * CSS
+# * JAVASCRIPT
+# * PHP
+# * Xampp Server
+# * MySQL
+
+# ScreenShots
+
