@@ -16,5 +16,5 @@ The is a web-based application designed to help users submit, track, and manage 
 * MySQL
 
 # ScreenShots
-![image](https://raw.githubusercontent.com/username/repo/main/images/screenshot.png)
+![image](https://github.com/subha2414/Complaint-Registration-System/blob/main/Register.png?raw=true)
 
